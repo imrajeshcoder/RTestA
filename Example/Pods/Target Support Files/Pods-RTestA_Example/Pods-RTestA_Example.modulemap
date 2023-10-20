@@ -1,0 +1,6 @@
+framework module Pods_RTestA_Example {
+  umbrella header "Pods-RTestA_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
